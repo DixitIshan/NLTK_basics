@@ -9,7 +9,7 @@ for syns in wordnet.synsets('here_goes_the_word_for_which_you_want_to_find_the_s
 print synonyms
 
 
-#FINDING ALL THE SYNONYMS FROM THE CORPUS AND THEIR LEMMAS PRINTING THEM
+#FINDING ALL THE SYNONYMS FROM THE CORPUS AND THEIR LEMMAS AND PRINTING THEM
 synonyms = []
 for syn in wordnet.synsets('here_goes_the_word_for_which_you_want_to_find_the_synonym_for'):
     for lemma in syn.lemmas():
