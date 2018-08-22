@@ -9,3 +9,4 @@ Text based tutorial:
 1) https://dzone.com/articles/nlp-tutorial-using-python-nltk-simple-examples
 2) https://www.dataquest.io/blog/natural-language-processing-with-python/
 3) http://unsupervisedlearning.co.uk/2017/11/10/natural-language-processing/
+4) https://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk
