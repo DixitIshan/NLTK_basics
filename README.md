@@ -10,3 +10,4 @@ Text based tutorial:
 2) https://www.dataquest.io/blog/natural-language-processing-with-python/
 3) http://unsupervisedlearning.co.uk/2017/11/10/natural-language-processing/
 4) https://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk
+5) https://medium.com/@ishan.cdixit/pythons-natural-language-tool-kit-nltk-tutorial-part-1-645688219a91
